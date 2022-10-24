@@ -4,8 +4,8 @@ We are creating a caster.
 
 ---
 ## Table of Contents
-* [Swing Arm](#Swing Arm)
-* [Multi-Part Studio](#Multi-Part Studio)
+* [Swing Arm](#Swing_Arm)
+* [Multi-Part Studio](#Multi-Part_Studio)
 * [PullCopter](#PullCopter)
 
 ## Swing Arm
