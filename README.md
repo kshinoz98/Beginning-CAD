@@ -55,51 +55,27 @@ Filler Text
 
 ### Description
 
-In the Unit 4 assignments, I was student B. For the most part, the only thing I had to do was to 
+In the Unit 4 assignments, I was student B. To complete the assignment, the only thing I had to do was follow the instructions. 
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+![Spinner and Prop](https://user-images.githubusercontent.com/113209502/197862479-77e56ba9-0184-4527-91cf-19971ecadfe9.png)
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+Filler Text
 
 #4.2 - Key & Prop
 
-### Description
-
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
-
-
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+![Spinner and Prop (1)](https://user-images.githubusercontent.com/113209502/197862948-40266594-1e86-4684-9021-9b937042ed81.png)
 
 ### Reflection
-
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+Filler Text
 
 #4.3 - Assembling the Launcher
 
-### Description
-
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
-
 
 ### Image
 
@@ -107,36 +83,15 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+Filler Text
 
 #4.4 & 4.5
 
-### Description
-
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
-
-
 ### Image
 
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
-
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-![cylinder parts stage 4](https://user-images.githubusercontent.com/113209502/197858016-ca857404-4128-461c-b124-fbf292c93f9b.png)
-
+Filler Text
 
