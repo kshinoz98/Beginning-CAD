@@ -47,16 +47,16 @@ Filler Text
 ---
 
 
-## PullCopter [4.1-4.4]
+## PullCopter [4.1-4.5]
+
+[Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 #4.1 - Teamwork Makes the Dream Work!
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+In the Unit 4 assignments, I was student B. For the most part, the only thing I had to do was to 
 
-### Evidence
-[Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 ### Image
 
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
@@ -78,8 +78,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
-### Evidence
-[Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
 ### Image
 
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
@@ -101,8 +100,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
-### Evidence
-[Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
 ### Image
 
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
@@ -124,8 +122,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
-### Evidence
-[Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
+
 ### Image
 
 <img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
