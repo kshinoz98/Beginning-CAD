@@ -79,7 +79,7 @@ Filler Text
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+![ezgif-5-859992c8f2](https://user-images.githubusercontent.com/113209502/197864758-22e905a7-360c-4271-a537-faf2ff51e113.gif)
 
 ### Reflection
 
