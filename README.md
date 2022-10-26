@@ -78,6 +78,7 @@ In this portion of the assignment, I was instructed to put together the parts ma
 ### Reflection
 
 This was by far the most interesting part of the Assignment. I learned a lot in 4.4, because I really did not know that much about versions, and how much you could do in onshape with versions. I learned:
+
 **You can create a workspace from a version
 **You can merge edits between different versions(Which I'm very happy about)
 **You can go through every single feature's history and go back to any place you have been before
