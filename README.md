@@ -1,4 +1,4 @@
-# BasicCAD
+# Intermediate CAD
 ###### Simple Stuff
 
 ## Table of Contents
