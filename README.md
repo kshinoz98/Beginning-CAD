@@ -15,7 +15,7 @@ Based on a series of sketches, model a part and measure the mass. Then, using va
 <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
 
 ### Reflection
-Filler Text
+This assignment was actually quite hard, as I didn't really know how to read from the 
 
 ---
 
@@ -36,7 +36,8 @@ Filler Text
 # PullCopter [4.1-4.5]
 [Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 ### Description
-In the Unit 4 assignments, I was student B. To complete the assignment, the only thing I had to do was follow the instructions. 
+
+In this assignment, I followed the instructions to construct, constrain and finally animate a usable Spin Copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. 
 
 ## 4.1 - Teamwork Makes the Dream Work!
 ### Image
@@ -50,6 +51,7 @@ Filler Text
 <img src="https://user-images.githubusercontent.com/113209502/197862948-40266594-1e86-4684-9021-9b937042ed81.png" alt="The Base" height="500">
 
 ### Reflection
+
 Filler Text
 
 ## 4.3 - Assembling the Launcher
@@ -57,6 +59,7 @@ Filler Text
 <img src="https://user-images.githubusercontent.com/113209502/197864758-22e905a7-360c-4271-a537-faf2ff51e113.gif" alt="The Base" height="500">
 
 ### Reflection
+
 Filler Text
 
 ## 4.4 & 4.5
@@ -64,4 +67,5 @@ Filler Text
 <img src="https://user-images.githubusercontent.com/113209502/197865458-46fbfdfa-befe-409e-8699-8e3acc59e21d.png" alt="The Base" height="200">
 
 ### Reflection
+
 Filler Text
