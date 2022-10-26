@@ -32,8 +32,10 @@ If I did this assignment again, I would take some time just looking at the isome
 ### Description
 In this assignment I created a model based on a series of sketches using only one part studio, and then weighed it. After that, the assignment instructed us to change a few constraints, which would change different dimensions across the whole part studio. This assignment was focused on the usefulness of a multi-part studio, specifically how you can create parts that are constrained to other part without having to manually change the dimensions.
 ### Evidence
+
 [Link to Multi-Part Studio](https://cvilleschools.onshape.com/documents/5d6eaab74dbddb42917d9942/w/c9a09ee45a58cf29efbade14/e/5d01e4081da054937d7fcd11)
-<img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/cylinder%20parts%20stage%204.png?raw=true" alt="The Base" width="500">
+
+<img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/cylinder%20parts%20stage%204.png?raw=true" alt="The Base" width="400">
 
 ### Reflection
 This assignment was less helpful to me, as I had already been doing multi-part studios for a while. However, one thing that I did have to learn was how to cope with a design intent as outlined on a drawing. I did not notice these on the first drawings, and skipped straight to the sketches. This is what I usually do when I get a whole line of drawings, but in this case, and also in [Swing Arm](#Swing_Arm), the imformation on the first pages was important to the assignment. Eventually, this ended in me having to go back and redo some of my work.
@@ -64,8 +66,10 @@ This portion of the assignment was very similar to 4.1, in that it did not add m
 
 ## 4.3 - Assembling the Launcher
 ### Image
-<img src="https://user-images.githubusercontent.com/113209502/197864758-22e905a7-360c-4271-a537-faf2ff51e113.gif" alt="The Base" height="500">
-<img src="https://user-images.githubusercontent.com/113209502/198088682-2e300a3c-c89e-4dcc-a89c-5a19556465ab.png" alt="The Base" height="500">
+
+Gears Meshing              | Animated Mates
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/113209502/198088682-2e300a3c-c89e-4dcc-a89c-5a19556465ab.png" alt="The Base" width="300">  |  <img src="https://user-images.githubusercontent.com/113209502/197864758-22e905a7-360c-4271-a537-faf2ff51e113.gif" alt="The Base" width="300">
 
 ### Reflection
 
@@ -79,7 +83,7 @@ In this portion of the assignment, I was instructed to put together the parts ma
 
 This was by far the most interesting part of the Assignment. I learned a lot in 4.4, because I really did not know that much about versions, and how much you could do in onshape with versions. I learned:
 **You can create a workspace from a version
-**You can merge edits between different versions (Which I'm very happy about)
+**You can merge edits between different versions(Which I'm very happy about)
 **You can go through every single feature's history and go back to any place you have been before
 
 In reference to 4.5, I didn't actually print, but I downloaded the files and found the place where I could have put it, which seems self explanitory.
