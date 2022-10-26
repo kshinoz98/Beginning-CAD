@@ -44,22 +44,23 @@ This assignment was less helpful to me, as I had already been doing multi-part s
 [Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 ### Description
 
-In this assignment, I followed the instructions to construct, constrain and finally animate a usable spin copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. The focus of this assignment was cooperation in a onshape doc, as well as learning how to use features like helix, circular pattern, and versions.
+In this assignment, I followed the instructions to construct, constrain and finally animate a usable spin copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. The focus of this assignment was cooperation in a onshape doc, as well as learning how to use features like helix, circular pattern, sweep and versions.
 
 ## 4.1 - Teamwork Makes the Dream Work!
 ### Image
-<img src="https://user-images.githubusercontent.com/113209502/197862479-77e56ba9-0184-4527-91cf-19971ecadfe9.png" alt="The Base" height="500">
+<img src="https://user-images.githubusercontent.com/113209502/197862479-77e56ba9-0184-4527-91cf-19971ecadfe9.png" alt="The Base" height="300">
 
 ### Reflection
-I didn't learn too much in this portion of the assignment, because I had used the helix and circular pattern tools before. However, I did take something away from this assignment, which is to use more sketches. I had a way of trying to use one sketch for almost everything at that time, and since then I have tried to use more sketches, emulation the way that they were used in this assignment.
+I didn't learn too much in this portion of the assignment, because I had used the helix and circular pattern tools before. However, I did take something away from this assignment, which is to use more sketches. I had a way of trying to use one sketch for almost everything at that time, and since then I have tried to use more sketches, emulating the way that they were used in this assignment.
 
 ## 4.2 - Key & Prop
 ### Image
+
 <img src="https://user-images.githubusercontent.com/113209502/197862948-40266594-1e86-4684-9021-9b937042ed81.png" alt="The Base" height="500">
 
 ### Reflection
 
-Filler Text
+This portion of the assignment was very similar to 4.1, in that it did not add much to my knowledge. However, there are a few small things that I could use in the future, one of which is the extrude to face tool, which I did not know existed, but I always wanted. Second is keybinds which helped me do this assignment as fast as possible.
 
 ## 4.3 - Assembling the Launcher
 ### Image
@@ -68,7 +69,7 @@ Filler Text
 
 ### Reflection
 
-Filler Text
+In this portion of the assignment, I was instructed to put together the parts made in the previous steps. It was not too difficult, and I had used most of the mates before. However, I also came up with a quick trick to find how far the pinion should move per each revolution, I used this formula: D*Pi, where D is the diameter of the gear. Also, I did not know about that I could turn perspective on and off until I did this assignment, and I will use perspective in the future when I take Screenshots.
 
 ## 4.4 & 4.5
 ### Image
@@ -76,4 +77,9 @@ Filler Text
 
 ### Reflection
 
-Filler text
+This was by far the most interesting part of the Assignment. I learned a lot in 4.4, because I really did not know that much about versions, and how much you could do in onshape with versions. I learned:
+*You can create a workspace from a version
+*You can merge edits between different versions(Which I'm very happy about)
+*You can go through every single feature's history and go back to any place you have been before
+
+In reference to 4.5, I didn't actually print, but I downloaded the files and found the place where I could have put it, which seems self explanitory.
