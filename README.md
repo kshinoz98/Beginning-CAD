@@ -8,9 +8,12 @@
 
 # Swing Arm
 ### Description
-Based on a series of sketches, model a part and measure the mass. Then, using variables, change the dimensions of the design
+I this assignment, I had to create a model based on a series of drawings and measure the mass. Then, using variables, change the dimensions of the design and weigh again. The learning goal in this assignment was to learn how to use constraints to create a sketch from a drawings.
+
 ### Evidence
 [Swing Arm](https://cvilleschools.onshape.com/documents/68ed676b7dd963beb2d40beb/w/6a3023a009a09ad3e64c44c6/e/63a14351dd926f708688a697)
+<img src="https://user-images.githubusercontent.com/113209502/198092212-4c4e9751-362a-4080-acef-7f994a0124d6.png" alt="The Base" width="500">
+
 ### Image
 <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
 
