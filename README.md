@@ -13,15 +13,16 @@ In this assignment, I had to create a model based on a series of drawings and me
 ### Evidence
 [Swing Arm](https://cvilleschools.onshape.com/documents/68ed676b7dd963beb2d40beb/w/6a3023a009a09ad3e64c44c6/e/63a14351dd926f708688a697)
 
-### Image
-<img src="https://user-images.githubusercontent.com/113209502/198092212-4c4e9751-362a-4080-acef-7f994a0124d6.png" alt="The Base" width="500">
-<img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
+Base Sketch of Arm         | Modified Sketch           | Final Arm
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/113209502/198098966-9eb4a1fc-a38d-48b0-9879-2e8a91908fde.png" alt="The Base" width="300">  |  <img src="https://user-images.githubusercontent.com/113209502/198098620-4f2fd04e-7b13-4b0f-b283-4967cc244946.png" alt="The Base" width="300">|  <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="300">
 
 ### Reflection
-This assignment was actually quite hard, as this was my first time reading from drawings, and the cross sections still perplex me. In addition I usually don't have troubles with the constraints, but how I made this, it was counterintuitive to how I normally mkae a sketch. I still have a lot to learn about drawing notation, but I have learned a few things:
+This assignment was actually quite hard, as this was my first time reading from drawings, and the cross sections still perplex me. In addition I usually don't have troubles with the constraints, but how I made this, it was counterintuitive to how I normally make a sketch. I still have a lot to learn about drawing notation, but I have learned a few things:
 * **Typ** means that the constraint refers to other similar sketch parts as well
 * **Underlined** means the dimension is not to scale
 * There are often things that are not explicitly stated on a drawing which you can assume as true
+
 If I did this assignment again, I would take some time just looking at the isometric drawing, thinking of the best way to build it instead of jumpiung right into the dimensions and constraints. This would have saved me a lot of time, as eventualy I had to go back and do that, but I wasted a lot of time before I got to that point.
 
 ---
