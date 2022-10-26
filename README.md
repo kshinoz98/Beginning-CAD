@@ -23,7 +23,7 @@ This assignment was actually quite hard, as this was my first time reading from 
 * **Underlined** means the dimension is not to scale
 * There are often things that are not explicitly stated on a drawing which you can assume as true
 
-If I did this assignment again, I would take some time just looking at the isometric drawing, thinking of the best way to build it instead of jumpiung right into the dimensions and constraints. This would have saved me a lot of time, as eventualy I had to go back and do that, but I wasted a lot of time before I got to that point.
+If I did this assignment again, I would take some time just looking at the isometric drawing, thinking of the best way to build it instead of jumping right into the dimensions and constraints. This would have saved me a lot of time, as eventually I had to go back and do that, but I wasted a lot of time before I got to that point.
 
 ---
 
@@ -38,7 +38,7 @@ In this assignment I created a model based on a series of sketches using only on
 <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/cylinder%20parts%20stage%204.png?raw=true" alt="The Base" width="400">
 
 ### Reflection
-This assignment was less helpful to me, as I had already been doing multi-part studios for a while. However, one thing that I did have to learn was how to cope with a design intent as outlined on a drawing. I did not notice these on the first drawings, and skipped straight to the sketches. This is what I usually do when I get a whole line of drawings, but in this case, and also in [Swing Arm](#Swing_Arm), the imformation on the first pages was important to the assignment. Eventually, this ended in me having to go back and redo some of my work.
+This assignment was less helpful to me, as I had already been doing multi-part studios for a while. However, one thing that I did have to learn was how to cope with a design intent as outlined on a drawing. I did not notice these on the first drawings, and skipped straight to the sketches. This is what I usually do when I get a whole line of drawings, but in this case, and also in [Swing Arm](#Swing_Arm), the information on the first pages was important to the assignment. Eventually, this ended in me having to go back and redo some of my work.
 
 ---
 
@@ -46,7 +46,7 @@ This assignment was less helpful to me, as I had already been doing multi-part s
 [Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 ### Description
 
-In this assignment, I followed the instructions to construct, constrain and finally animate a usable spin copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. The focus of this assignment was cooperation in a onshape doc, as well as learning how to use features like helix, circular pattern, sweep and versions.
+In this assignment, I followed the instructions to construct, constrain and finally animate a usable spin copter. In the Unit 4 assignments, I was student B so I constructed the spinner and the prop. The focus of this assignment was cooperation in a onshape doc, as well as learning how to use features like helix, circular pattern, sweep and versions.
 
 ## 4.1 - Teamwork Makes the Dream Work!
 ### Image
