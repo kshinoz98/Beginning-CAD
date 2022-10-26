@@ -57,6 +57,7 @@ Filler Text
 ## 4.3 - Assembling the Launcher
 ### Image
 <img src="https://user-images.githubusercontent.com/113209502/197864758-22e905a7-360c-4271-a537-faf2ff51e113.gif" alt="The Base" height="500">
+<img src="https://user-images.githubusercontent.com/113209502/198088682-2e300a3c-c89e-4dcc-a89c-5a19556465ab.png" alt="The Base" height="500">
 
 ### Reflection
 
