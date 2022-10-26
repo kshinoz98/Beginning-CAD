@@ -44,14 +44,14 @@ This assignment was less helpful to me, as I had already been doing multi-part s
 [Link to PullCopter](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 ### Description
 
-In this assignment, I followed the instructions to construct, constrain and finally animate a usable Spin Copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. 
+In this assignment, I followed the instructions to construct, constrain and finally animate a usable spin copter. In the Unit 4 assignments, I was student B so I contructed the spinner and the prop. The focus of this assignment was cooperation in a onshape doc, as well as learning how to use features like helix, circular pattern, and versions.
 
 ## 4.1 - Teamwork Makes the Dream Work!
 ### Image
 <img src="https://user-images.githubusercontent.com/113209502/197862479-77e56ba9-0184-4527-91cf-19971ecadfe9.png" alt="The Base" height="500">
 
 ### Reflection
-Filler Text
+I didn't learn too much in this portion of the assignment, because I had used the helix and circular pattern tools before. However, I did take something away from this assignment, which is to use more sketches. I had a way of trying to use one sketch for almost everything at that time, and since then I have tried to use more sketches, emulation the way that they were used in this assignment.
 
 ## 4.2 - Key & Prop
 ### Image
@@ -76,10 +76,4 @@ Filler Text
 
 ### Reflection
 
-Filler Text
-
-![Link to Onshape Doc (1)](https://user-images.githubusercontent.com/113209502/198103454-a45dd17e-c588-4c8b-906e-bbcb2f5b8867.png)
-
-
-[![](<img src="https://user-images.githubusercontent.com/113209502/198103454-a45dd17e-c588-4c8b-906e-bbcb2f5b8867.png" alt="The Base" with="200">
-)](https://github.com/user/repository/subscription)
+Filler text
