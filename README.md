@@ -15,7 +15,7 @@ Based on a series of sketches, model a part and measure the mass. Then, using va
 <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
 
 ### Reflection
-This assignment was actually quite hard, as I didn't really know how to read from the 
+This assignment was actually quite hard, as I didn't really know how to read from the diagrams given, and the cross sections still perplex me. In addition I usually don't have troubles with the constraints, but in how I made this it was counterintuitive.  
 
 ---
 
