@@ -30,14 +30,13 @@ If I did this assignment again, I would take some time just looking at the isome
 ## Multi-Part Studio
 
 ### Description
-Based on a series of sketches, and using only one part studio, create a model and weigh it. After that, the assignment instructed us to change a few constraints, which would change different dimensions across the whole part studio. 
+In this assignment I created a model based on a series of sketches using only one part studio, and then weighed it. After that, the assignment instructed us to change a few constraints, which would change different dimensions across the whole part studio. This assignment was focused on the usefulness of a multi-part studio, specifically how you can create parts that are constrained to other part without having to manually change the dimensions.
 ### Evidence
 [Link to Multi-Part Studio](https://cvilleschools.onshape.com/documents/5d6eaab74dbddb42917d9942/w/c9a09ee45a58cf29efbade14/e/5d01e4081da054937d7fcd11)
-##### Image
 <img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/cylinder%20parts%20stage%204.png?raw=true" alt="The Base" width="500">
 
 ### Reflection
-Filler Text
+This assignment was less helpful to me, as I had already been doing multi-part studios for a while. However, one thing that I did have to learn was how to cope with a design intent as outlined on a drawing. I did not notice these on the first drawings, and skipped straight to the sketches. This is what I usually do when I get a whole line of drawings, but in this case, and also in [Swing Arm](#Swing_Arm), the imformation on the first pages was important to the assignment. Eventually, this ended in me having to go back and redo some of my work.
 
 ---
 
