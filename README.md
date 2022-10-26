@@ -65,7 +65,7 @@ Filler Text
 
 ## 4.4 & 4.5
 ### Image
-<img src="https://user-images.githubusercontent.com/113209502/197865458-46fbfdfa-befe-409e-8699-8e3acc59e21d.png" alt="The Base" height="200">
+<img src="https://user-images.githubusercontent.com/113209502/197865458-46fbfdfa-befe-409e-8699-8e3acc59e21d.png" alt="The Base" height="500">
 
 ### Reflection
 
