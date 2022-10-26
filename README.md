@@ -14,8 +14,8 @@ I this assignment, I had to create a model based on a series of drawings and mea
 [Swing Arm](https://cvilleschools.onshape.com/documents/68ed676b7dd963beb2d40beb/w/6a3023a009a09ad3e64c44c6/e/63a14351dd926f708688a697)
 
 ### Image
-<img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
 <img src="https://user-images.githubusercontent.com/113209502/198092212-4c4e9751-362a-4080-acef-7f994a0124d6.png" alt="The Base" width="500">
+<img src="https://github.com/kshinoz98/Beginning-CAD/blob/main/Actual%20Part.png?raw=true" alt="The Base" width="500">
 
 ### Reflection
 This assignment was actually quite hard, as I didn't really know how to read from the diagrams given, and the cross sections still perplex me. In addition I usually don't have troubles with the constraints, but in how I made this it was counterintuitive.  
