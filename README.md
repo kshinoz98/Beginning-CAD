@@ -5,6 +5,7 @@
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part Studio](#Multi-Part_Studio)
 * [PullCopter](#PullCopter)
+* [Onshape Assembly](#
 
 # Swing Arm
 ### Description
@@ -87,3 +88,25 @@ This was by far the most interesting part of the Assignment. I learned a lot in 
 **You can go through every single feature's history and go back to any place you have been before
 
 In reference to 4.5, I didn't actually print, but I downloaded the files and found the place where I could have put it, which seems self explanitory.
+
+# Onshape Assemblies
+### Description
+In this assignment, I had to follow instructions, and listen to people droe on about Onshape mates.
+
+### Evidence
+[Explicit Mate Connectors](https://cvilleschools.onshape.com/documents/70fcac20a15c475cc1a9fcef/w/a5598a9d0dc9beca83b7c70a/e/3e06f414f0124bc469340c2c?renderMode=0&uiState=636c038d8e26641b9e70fc33)
+[Basic Assembly](https://cvilleschools.onshape.com/documents/b0997a8e95182978f825fb92/w/f4c4e53418e1f5febf9eb54b/e/0002cb042b690b3b0004b285?renderMode=0&uiState=636c03ae05aee7443d87d432)
+[Intermediate Assembly](https://cvilleschools.onshape.com/documents/bc09c84bde40e6e98f15620f/w/bdfe723dedd64a2c7a06e62b/e/5f00c4c5488c10c3999bb6b3)
+
+Explicit Mate Assembly         | Basic Assembly  | Intermediate Assembly
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/113209502/200927348-a470c584-b3b5-434c-8818-22392dae96e8.png" alt="The Base" width="300">  |  <img src="https://user-images.githubusercontent.com/113209502/198098620-4f2fd04e-7b13-4b0f-b283-4967cc244946.png" alt="The Base" width="300">|  <img src="https://user-images.githubusercontent.com/113209502/200927564-bdcd1c46-3ef0-407f-881a-6dfd8960e324.png" alt="The Base" width="300">
+
+### Reflection
+This assignment was actually quite hard, as this was my first time reading from drawings, and the cross sections still perplex me. In addition I usually don't have troubles with the constraints, but how I made this, it was counterintuitive to how I normally make a sketch. I still have a lot to learn about drawing notation, but I have learned a few things:
+* **Typ** means that the constraint refers to other similar sketch parts as well
+* **Underlined** means the dimension is not to scale
+* There are often things that are not explicitly stated on a drawing which you can assume as true
+
+If I did this assignment again, I would take some time just looking at the isometric drawing, thinking of the best way to build it instead of jumping right into the dimensions and constraints. This would have saved me a lot of time, as eventually I had to go back and do that, but I wasted a lot of time before I got to that point.
+
