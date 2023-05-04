@@ -6,6 +6,7 @@
 * [Multi-Part Studio](#Multi-Part_Studio)
 * [PullCopter](#PullCopter)
 * [Onshape Assembly](#Onshape_Assemblies)
+* [Onshape Certification](#Onshape_Certification)
 
 # Swing Arm
 ### Description
@@ -101,3 +102,14 @@ Explicit Mate Assembly         | Basic Assembly  | Intermediate Assembly
 
 ### Reflection
 This assignment was not that hard, as I mostly knew about the things they talked about. Explicit mates are basically mates attached in a part studio that can be attached in context to other parts based in the part studio, or mates that are based off the geometry of the part, but not on a geometry node(ie between, displaced). The other thing that we were supposed to learn about was the triad manipulators, which basically made sense, but I did learn that you could change the base of the triad manipulator with mate connectors, as well as move it to the orgin.
+
+# Onshape Certificaton
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/113209502/236310774-f0f5ed33-5fa0-488c-9333-1bc9a22a5257.jpg">
+</p>
+
+
+### Reflection
+
+Despite the pressure, I found the CAD test to be a valuable learning experience. It forced me to apply my knowledge of CAD and technical drawing conventions in a time-constrained setting, which helped to give a taste of what might happen at a job. In terms of being prepared, I feel like I was definitely ready, though I didn't really realize how much pressure I would feel while doing the test. It's a lot scarier when it's happening, and I definitely made a lot of mistakes that I shouldn't have made. To break it down further, the modeling section is basically how good your google skills are, and the modeling is how well you can interpret sketches and strange diagrams within a time limit. Overall, I believe it helped, as I learned a lot of the nuance of Onshape in the practice.
